@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techbire
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech and a coding aficionado.
 - 🌱 I’m currently studying B.Tech CSE
-- 💞️ I’m looking to collaborate on ...
+- 📍 From LPU
 - 📫 How to reach me .... visit https://bit.ly/m/techbire
 
 <!---
