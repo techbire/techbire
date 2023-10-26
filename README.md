@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋 I'm Ansh Gupta</h1>
 <h3 align="center">A Tech Aficionado and Eager To Collaborate and Learn</h3>
 
-<img align="right" alt="Coding" width="350" height="250" 
 
 
 - 🌱 I’m currently learning DSA and Web Development
