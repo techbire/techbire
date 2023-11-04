@@ -18,7 +18,7 @@
 <h1 align="center">Hi 👋 I'm Ansh Gupta</h1>
 <h3 align="center">A passionate tech enthusiast, coding aficionado, and eager to collaborate and learn.</h3>
 
-
+<br>
 
 - 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me anshtechnical@gmail.com
