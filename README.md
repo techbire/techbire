@@ -30,6 +30,7 @@
 <br>
 
 Ꮆ丨ㄒ卄ㄩ乃　丂ㄒ卂ㄒ丂-
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=false)<br/>
