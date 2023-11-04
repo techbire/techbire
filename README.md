@@ -27,7 +27,7 @@
 
 
 
-# Social Platform:
+# 𝚂𝚘𝚌𝚒𝚊𝚕 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/techbire) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techbire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techbire) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/techbire) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techbire) 
 <br>
 <br>
@@ -59,5 +59,5 @@
 <br>
 <br>
 
-# You can help me by Donating
+# 𝘠𝘰𝘶 𝘤𝘢𝘯 𝘩𝘦𝘭𝘱 𝘮𝘦 𝘣𝘺 𝘥𝘰𝘯𝘢𝘵𝘪𝘯𝘨!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire) 
