@@ -29,7 +29,7 @@
 <br>
 <br>
 
-# Ꮆ丨ㄒ卄ㄩ乃　丂ㄒ卂ㄒ丂-
+Ꮆ丨ㄒ卄ㄩ乃　丂ㄒ卂ㄒ丂-
 ![](https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=false)<br/>
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-# 尺卂几ᗪㄖ爪　ᗪ乇ᐯ　Ɋㄩㄖㄒ乇-
+尺卂几ᗪㄖ爪　ᗪ乇ᐯ　Ɋㄩㄖㄒ乇-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
