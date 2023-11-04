@@ -59,5 +59,5 @@
 <br>
 <br>
 
-# 𝘠𝘰𝘶 𝘤𝘢𝘯 𝘩𝘦𝘭𝘱 𝘮𝘦 𝘣𝘺 𝘥𝘰𝘯𝘢𝘵𝘪𝘯𝘨.
+乃ㄩㄚ　卂　匚ㄖ千千乇乇　千ㄖ尺　爪乇！
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire) 
