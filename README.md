@@ -47,7 +47,7 @@
 <br>
 <br>
 
-丂ㄖ匚丨卂ㄥ　卩ㄥ卂ㄒ千ㄖ尺爪丂-
+𝒮𝑜𝒸𝒾𝒶𝓁 𝒫𝓁𝒶𝓉𝒻𝑜𝓇𝓂𝓈-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/techbire) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techbire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techbire) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/techbire) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techbire) 
 <br>
 <br>
