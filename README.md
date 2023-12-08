@@ -63,5 +63,5 @@
 <br>
 <br>
 
-𝓑𝓾𝔂 𝓪 𝓒𝓸𝓯𝓯𝓮𝓮 𝓯𝓸𝓻 𝓶𝓮!
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire) 
+𝓑𝓾𝔂 𝓪 𝓒𝓸𝓯𝓯𝓮𝓮 𝓯𝓸𝓻 𝓶𝓮! 
+   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire) 
