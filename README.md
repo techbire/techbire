@@ -30,7 +30,6 @@
 <br>
 
 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼-
-
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -40,7 +39,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 <br>
-
 𝓡𝓪𝓷𝓭𝓸𝓶 𝓓𝓮𝓿 𝓠𝓾𝓸𝓽𝓮-
 <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
