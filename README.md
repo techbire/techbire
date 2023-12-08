@@ -29,7 +29,8 @@
 <br>
 <br>
 
-Ꮆ丨ㄒ卄ㄩ乃　丂ㄒ卂ㄒ丂-
+𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼-
+
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -40,14 +41,14 @@
 <br>
 <br>
 
-尺卂几ᗪㄖ爪　ᗪ乇ᐯ　Ɋㄩㄖㄒ乇-
+𝓡𝓪𝓷𝓭𝓸𝓶 𝓓𝓮𝓿 𝓠𝓾𝓸𝓽𝓮-
 <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
 <br>
 
-𝒮𝑜𝒸𝒾𝒶𝓁 𝒫𝓁𝒶𝓉𝒻𝑜𝓇𝓂𝓈-
+𝓢𝓸𝓬𝓲𝓪𝓵 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/techbire) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techbire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techbire) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/techbire) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techbire) 
 <br>
 <br>
@@ -62,5 +63,5 @@
 <br>
 <br>
 
-乃ㄩㄚ　卂　匚ㄖ千千乇乇　千ㄖ尺　爪乇！
+𝓑𝓾𝔂 𝓪 𝓒𝓸𝓯𝓯𝓮𝓮 𝓯𝓸𝓻 𝓶𝓮!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire) 
