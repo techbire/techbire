@@ -22,7 +22,7 @@
 <br>
 
 - 🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘚𝘈 𝘢𝘯𝘥 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵
-- 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 𝘢𝘯𝘴𝘩𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
+- 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: 𝘢𝘯𝘴𝘩𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
 
   
   [![](https://visitcount.itsvg.in/api?id=techbire&icon=8&color=6)](https://visitcount.itsvg.in)
@@ -33,9 +33,9 @@
 
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=false)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
