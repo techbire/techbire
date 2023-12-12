@@ -61,7 +61,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 <div align="right">
-  [![Visits](https://visitcount.itsvg.in/api?id=techbire&icon=8&color6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=techbire&icon=8&color6)
 </div>
 
 ## ☕ Buy me a coffee!
