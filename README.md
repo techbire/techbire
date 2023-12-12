@@ -32,6 +32,38 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/techbire/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=techbire&hide_border=true&show_icons=true&count_private=true" alt="Ansh Gupta's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/techbire/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=techbire&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Ansh Gupta's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <br>
 <br>
 𝓡𝓪𝓷𝓭𝓸𝓶 𝓓𝓮𝓿 𝓠𝓾𝓸𝓽𝓮-
