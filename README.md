@@ -7,7 +7,7 @@
 <p align="center">
 <em>
     This is me <b>Ansh Gupta</b>, a first year <b>Computer Science</b> undergraduate from <a href="https://www.lpu.in/"> <b>Lovely Professional University, India</b></a>.
-    An aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast.</b> 
+    An aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast.</b> </em>
   <br>
 </p>
 
