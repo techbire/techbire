@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Undergraduate;Tech+Aficionado;Aspiring+DS+and+MERN+Stack+" alt="Typing SVG"></a>
 </p>
 <p align="center">
-
+<em>
     This is me <b>Ansh Gupta</b>, a first year <b>Computer Science</b> undergraduate from <a href="https://www.lpu.in/"> <b>Lovely Professional University, India</b></a>.
     An aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast.</b> 
   <br>
