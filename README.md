@@ -87,6 +87,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
   <a href="https://www.hackerrank.com/techbire" target="_blank" rel="noreferrer"> <img alt="Anah Gupta's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   
   <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  
   <a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /> </a>
 </div>
 
