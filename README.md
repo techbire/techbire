@@ -59,12 +59,9 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<div align="right">
-<a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=techbire&icon=8&color6" </a>
-</div>
-
 ## ☕ Buy me a coffee!
    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire)
 
-   
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=techbire&label=Profile%20Views&color=6&icon=1&pretty=true" />
+</a>   
