@@ -31,7 +31,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <br>
 <br>
 
-𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼-
+## 📊 GitHub Stats
 <br>
 <br>
 
@@ -65,8 +65,8 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 <br>
 <br>
-𝓡𝓪𝓷𝓭𝓸𝓶 𝓓𝓮𝓿 𝓠𝓾𝓸𝓽𝓮-
-<br>
+## 💭 Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
@@ -83,5 +83,5 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 <br>
-𝓑𝓾𝔂 𝓪 𝓒𝓸𝓯𝓯𝓮𝓮 𝓯𝓸𝓻 𝓶𝓮! 
+## ☕︎ Buy a coffee for me!
    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/techbire) 
