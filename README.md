@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋 I'm Ansh Gupta</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Undergraduate;Tech+Aficionado;Aspiring+DS+and+MERN+Stack+" alt="Typing SVG"></a>
-  <p align="center">
+
 </p>
 <p align="center">
 <em>
