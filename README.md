@@ -11,13 +11,14 @@
     An aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast.</b> </em>
   <br>
 </p>
-<h3>Little facts about me 🧑</h3>
+<h3>🧑 Little facts about me</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Web Development.
 - 👯 I’m looking to collaborate with Web and Python development projects.
 - 💡 Contributing to Open Source Projects is always been a goal for me.
 - ⚡ Fun fact: I love Sports, especially Badminton.
+  <br>
   <br>
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
 
