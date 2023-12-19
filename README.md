@@ -19,7 +19,8 @@
 - 💡 Contributing to Open Source Projects is always been a goal for me.
 - ⚡ Fun fact: I love Sports, especially Badminton.
 <br>
-<br>Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
+<br>
+Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=ansh-CV)](https://github.com/techbire/ansh-CV)
 &nbsp; &nbsp;
