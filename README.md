@@ -80,4 +80,5 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 ### 🧋 Buy me a coffee!
    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anshg470)
    [![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://ibb.co/1sHtRQB)
+   
    [![](https://visitcount.itsvg.in/api?id=techbire&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
