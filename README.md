@@ -25,6 +25,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=portfolio)](https://techbire.github.io/portfolio/)
 
+---
 ### 📧 Social & Contact
 <div>
 <a href="mailto:anshtechnical@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
