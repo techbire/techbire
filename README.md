@@ -25,8 +25,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=portfolio)](https://techbire.github.io/portfolio/)
 
-<br>---
-
+<br>
 ### 📧 Social & Contact
 
 <div>
