@@ -65,5 +65,4 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
    [![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://ibb.co/1sHtRQB)
    
    [![](https://visitcount.itsvg.in/api?id=techbire&label=Profile%20Views&color=6&icon=1&pretty=&theme=dark)](https://bit.ly/m/techbire.in)
-
 ![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
