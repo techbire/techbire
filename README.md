@@ -49,15 +49,15 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <table>
   <tr>
     <td>
-      <a href="https://github.com/techbire/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Ansh Gupta's GitHub Stats" /> </a>
+      <a href="https://github.com/techbire/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=techbire&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="Ansh Gupta's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/techbire/github-readme-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=false" alt="Top Languages" /> </a>
+      <a href="https://github.com/techbire/github-readme-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=radical&hide_border=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ansh Gupta's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Ansh Gupta's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=techbire&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=techbire&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 ### 💭 Random Dev Quote  
