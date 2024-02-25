@@ -15,7 +15,7 @@
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Web Development.
-- 👯 I’m looking to collaborate with Web and Python development projects.
+- 👯 I’m looking to collaboration with any projects.
 - 💡 Contributing to Open Source Projects is always been a goal for me.
 - ⚡ Fun fact: I love Sports, especially Badminton.
     <br><br>
