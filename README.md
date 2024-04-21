@@ -8,7 +8,7 @@
 <p align="center">
 <em>
     This is me <b>Ansh Gupta</b>, a first year <b>Computer Science</b> undergraduate from <a href="https://www.lpu.in/"> <b>Lovely Professional University, India</b></a>. <br>
-    An aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast  with over 3 years of experience in tech content writing.</b> </em>
+    Aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast with over 3 years of experience in tech content writing.</b> </em>
   <br>
 </p>
 <h3>-Little facts about me</h3>
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on C language & Socket Programming.
 - 👯 I’m looking to collaboration with any projects.
 - 💡 Contributing to Open Source Projects has always been my goal.
-- ⚡ Fun fact: I love Sports, especially Badminton.
+- ⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.
     <br><br>
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
 
