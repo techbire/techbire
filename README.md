@@ -40,7 +40,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <br>
 
 ### 🧑🏻‍💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,MySQL,c,cpp,py,gcp,git)](https://skillicons.dev)
 <br>
 <br>
 
