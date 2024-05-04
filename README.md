@@ -37,7 +37,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </div>
-<br>
+
 
 ### 🧑🏻‍💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,mysql,c,cpp,py,gcp,git)](https://skillicons.dev)
