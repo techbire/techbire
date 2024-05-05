@@ -38,6 +38,10 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </div>
 
+<div>
+    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/techbire)
+</div>
+
 
 ### 🧑🏻‍💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,mysql,c,cpp,py,gcp,git)](https://skillicons.dev)
