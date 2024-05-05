@@ -30,7 +30,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 ### 📧 Social & Contact
 <div>
 <a href="mailto:anshtechnical@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://techbire.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Portfolio" src="https://cdn-icons-png.flaticon.com/128/281/281089.png"width="50"/></a>
+<a href="https://techbire.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Portfolio" src="https://static-00.iconduck.com/assets.00/adobe-portfolio-icon-2048x2048-9mr3hke4.png"width="50"/></a>
 <a href="https://www.linkedin.com/in/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://www.hackerrank.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's HackerRank" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"width="50"/></a>
