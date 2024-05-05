@@ -65,13 +65,10 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 
-<a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://www.logo.wine/a/logo/Paytm/Paytm-Logo.wine.svg?__cf_chl_rt_tk=PDCF.negmks6XQFtDUue0PZCMznNhPm3BTKZKbg26so-1714910339-0.0.1.1-1557" width="50"/></a>
-<a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" width="50"/></a>
+<a href="https://ibb.co/1sHtRQB" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://www.logo.wine/a/logo/Paytm/Paytm-Logo.wine.svg?__cf_chl_rt_tk=PDCF.negmks6XQFtDUue0PZCMznNhPm3BTKZKbg26so-1714910339-0.0.1.1-1557" width="50"/></a>
+<a href="https://paypal.me/anshg470" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" width="50"/></a>
 
 
-
-   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anshg470)
-   [![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://ibb.co/1sHtRQB)
    
    [![](https://visitcount.itsvg.in/api?id=techbire&label=Profile%20Views&color=6&icon=1&pretty=&theme=dark)](https://bit.ly/m/techbire)
 
