@@ -48,13 +48,13 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 ---
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=techbire&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=dark&hide_border=true&bg_color=00000000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
 
 ---
 
 ### 💭 Random Dev Quote  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000)
   <br>
   
 ---
