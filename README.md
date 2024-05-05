@@ -30,13 +30,12 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 ### 📧 Social & Contact
 <div>
 <a href="mailto:anshtechnical@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://techbire.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Portfolio" src="![image](https://github.com/techbire/techbire/assets/131269064/3766bb11-a12c-4440-a9c1-9d03f2bb39c6)
-"/></a>
+<a href="https://techbire.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Portfolio" src=""/></a>
 <a href="https://www.linkedin.com/in/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://www.hackerrank.com/techbire" target="_blank" rel="noreferrer"> <img alt="Anah Gupta's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/techbire" target="_blank" rel="noreferrer"> <img alt="Anah Gupta's HackerRank" src=""/></a>
+<a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src=""/></a>
+<a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src=""/></a>
 </div>
 
 <div>
