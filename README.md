@@ -47,7 +47,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 ---
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=techbire&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=techbire&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
