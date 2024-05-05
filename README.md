@@ -65,7 +65,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 
-<a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHMFi6lF1Ck7HkLJsmuoRsqeZLo5mxIEHnGfid00rRg&s" width="50"/></a>
+<a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://w7.pngwing.com/pngs/305/719/png-transparent-paytm-ecommerce-shopping-social-icons-circular-color-icon-thumbnail.png?__cf_chl_rt_tk=dsw_TAj0t7_RUSrZKhs5bw8z7gedtN.CB_3hdzIpExE-1714910102-0.0.1.1-1727" width="50"/></a>
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" width="50"/></a>
 
 
