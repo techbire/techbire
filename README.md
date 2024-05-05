@@ -70,5 +70,5 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
    
-[![](https://visitcount.itsvg.in/api?id=techbire&label=Profile%20Views&color=6&icon=1&pretty=&theme=dark&bg_color=00000000)](https://bit.ly/m/techbire)
+[![](https://visitcount.itsvg.in/api?id=techbire&label=Profile%20Views&color=6&icon=1&bg_color=00000000)](https://bit.ly/m/techbire)
 
