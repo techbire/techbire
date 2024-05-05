@@ -66,6 +66,9 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://download.logo.wine/logo/Paytm/Paytm-Logo.wine.png" width="50"/></a>
+<a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" width="50"/></a>
+
+
 
    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anshg470)
    [![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://ibb.co/1sHtRQB)
