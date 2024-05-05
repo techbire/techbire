@@ -35,12 +35,10 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://www.hackerrank.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's HackerRank" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/></a>
 <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
-<a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://media.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_200_200/0/1641201042355/codechef_logo?e=1723075200&v=beta&t=wS58T23A7N_xa8Yb6bSb7vdjA6azgkPRpOQF-p9q8SQ"/></a>
+<a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://media.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_200_200/0/1641201042355/codechef_logo?e=1723075200&v=beta&t=wS58T23A7N_xa8Yb6bSb7vdjA6azgkPRpOQF-p9q8SQ" width="2020"/></a>
 </div>
 
-<div>
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/techbire)
-</div>
+
 
 
 ### 🧑🏻‍💻 Tech Stack
