@@ -14,7 +14,7 @@
 <h3>-Little facts about me</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on C language & Socket Programming.
+- 🔭 I’m currently working on C++ and MERN project.
 - 👯 I’m looking to collaboration with any projects.
 - 💡 Contributing to Open Source Projects has always been my goal.
 - ⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.
