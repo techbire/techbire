@@ -21,9 +21,9 @@
     <br><br>
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=ansh-cv&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/techbire/ansh-CV)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=ansh-cv&theme=dark&hide_border=false)](https://github.com/techbire/ansh-CV)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=portfolio&theme=dark&hide_border=true&bg_color=00000000)](https://techbire.github.io/portfolio/)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=portfolio&theme=dark&hide_border=false)](https://techbire.github.io/portfolio/)
 <br>
 
 ---
@@ -47,14 +47,14 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 ---
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=techbire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=dark&hide_border=false&bg_color=00000000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api?username=techbire&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=techbire&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### 💭 Random Dev Quote  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   <br>
   
 ---
