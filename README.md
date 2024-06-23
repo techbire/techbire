@@ -54,7 +54,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 ---
 
 ### 💭 Random Dev Quote  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
   <br>
   
 ---
