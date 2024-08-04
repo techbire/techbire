@@ -16,7 +16,7 @@
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on C++ and MERN project.
 - 👯 I’m looking to collaboration with any projects.
-- 💡 Contributor @GirlScript Summer of Code 2024 and SWE Fellow @HeadstarterAI
+- 💡 Contributor [@GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/) and SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com)
 - ⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.
     <br><br>
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
@@ -32,9 +32,12 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <a href="mailto:anshtechnical@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://www.hackerrank.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's HackerRank" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"width="50"/></a>
+<a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda"width="50"/></a>
 <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"width="50"/></a>
-<a href="https://codechef.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CodeChef" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" width="50"/></a>
+<a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"width="50"/></a>
+
+
+    
 </div>
 
 
