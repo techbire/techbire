@@ -32,7 +32,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <a href="mailto:anshtechnical@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda"width="50"/></a>
+<a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="logo/yt.png"width="50"/></a>
 <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"width="50"/></a>
 <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"width="50"/></a>
 
