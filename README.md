@@ -16,7 +16,7 @@
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on C++ and MERN project.
 - 👯 I’m looking to collaboration with any projects.
-- 💡 Contributor @GirlScript Summer of Code 2024
+- 💡 Contributor @GirlScript Summer of Code 2024 and SWE Fellow @HeadstarterAI
 - ⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.
     <br><br>
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
