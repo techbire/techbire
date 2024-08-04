@@ -34,7 +34,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 <a href="https://www.instagram.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://www.naukri.com/code360/profile/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's CN" src="logo/cn.png"width="50"/></a>
 <a href="https://leetcode.com/techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"width="50"/></a>
-<a href="https://www.geeksforgeeks.org/user/techbire/" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's GFG" src="logo/gfg1.png"width="60"/></a>
+<a href="https://www.geeksforgeeks.org/user/techbire/" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's GFG" src="logo/gfg2.png"width="60"/></a>
 <a href="https://www.youtube.com/@techbire" target="_blank" rel="noreferrer"> <img alt="Ansh Gupta's YT" src="logo/yt.png"width="55"/></a>
 
     
