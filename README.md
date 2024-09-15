@@ -27,6 +27,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" style="width: 50px; height: 50px;" />
   </div>
 </div>
+
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=ansh-cv&theme=dark&hide_border=true)](https://github.com/techbire/ansh-CV)
