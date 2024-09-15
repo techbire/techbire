@@ -11,6 +11,37 @@
     Aspiring <b>Data Structures,</b>&nbsp; <b>MERN Stack</b>&nbsp; and <b> Data Science Enthusiast with over 3 years of experience in tech content writing.</b> </em>
   <br>
 </p>
+
+
+
+
+
+
+
+<h3>Little facts about me</h3>
+
+| Little facts about me | What I'm listening to |
+| --------------------- | --------------------- |
+| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💡 Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a> and SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a></li><li>⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.</li></ul> | ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3>-Little facts about me</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
