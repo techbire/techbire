@@ -13,7 +13,7 @@
 </p>
 <h3>-Little facts about me</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood. ![spotify-github-profile](https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true) |
+- 🧞 I'm a Tech Enthusiast since childhood. ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true) |
 - 🔭 I’m currently working on C++ and MERN project.
 - 👯 I’m looking to collaboration with any projects.
 - 💡 Contributor [@GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/) and SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com)
