@@ -16,7 +16,7 @@
 
 | Little facts about me | What I'm listening to |
 | --------------------- | --------------------- |
-| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💡 Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a> and SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a></li><li>⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.</li></ul> | <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" width="160" height="190"> |
+| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💡 Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a> and SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a></li><li>⚡ Fun fact: Buff of Sci-fi & Sport-Badminton.</li></ul> | <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" width="190" height="220"> |
 
 
 
