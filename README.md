@@ -16,7 +16,7 @@
 
 | Little facts about me | What I'm listening to |
 | --------------------- | --------------------- |
-| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💼 Ex- SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a> || Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a>  </li><li>⚡ Fun fact: Buff of Sci-fi </li></ul> | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&redirect=true) |
+| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💼 Ex- SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a>|| Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a>  </li><li>⚡ Fun fact: Buff of Sci-fi </li></ul> | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&redirect=true) |
 
 
 
