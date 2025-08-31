@@ -42,8 +42,6 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
     
 </div>
 ---
-
-
 ### 🧑🏻‍💻 Tech Stack
 
 #### 🚀 Programming Languages
@@ -64,7 +62,6 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 #### 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,pr,replit,vscode,wordpress,postman,autocad,figma)](https://skillicons.dev)
 
-<br>
 <br>
 
 ---
