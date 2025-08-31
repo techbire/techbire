@@ -46,7 +46,8 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 ### 🧑🏻‍💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,mysql,c,cpp,py,gcp,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,js,ts,sql,react,nextjs,vue,tailwind,materialui,radix,bootstrap,html,css,nodejs,express,fastapi,rest,jwt,clerk,mongodb,mysql,postgresql,firebase,sqlite,gemini,openai,pr,rag,langchain,gcp,docker,githubactions,git,github,vscode,postman,figma,canva,dsa,pygame,seo)](https://skillicons.dev)
+
 <br>
 <br>
 
