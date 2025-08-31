@@ -44,9 +44,25 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
 
 
-
 ### 🧑🏻‍💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,js,ts,react,nextjs,vue,tailwind,materialui,bootstrap,html,css,nodejs,express,fastapi,mongodb,mysql,postgresql,firebase,sqlite,pr,gcp,docker,githubactions,git,github,vscode,postman,figma)](https://skillicons.dev)
+
+#### 🚀 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,js,ts,php)](https://skillicons.dev)
+
+#### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,jquery,tailwind,materialui,bootstrap,html,css)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
+
+#### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,firebase,supabase)](https://skillicons.dev)
+
+#### ☁️ Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=gcp,docker,githubactions,cloudflare)](https://skillicons.dev)
+
+#### 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,pr,replit,vscode,wordpress,postman,autocad,figma)](https://skillicons.dev)
 
 <br>
 <br>
