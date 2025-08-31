@@ -41,7 +41,7 @@ Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https:/
 
     
 </div>
-
+---
 
 
 ### 🧑🏻‍💻 Tech Stack
