@@ -16,16 +16,16 @@
 
 | Little facts about me | What I'm listening to |
 | --------------------- | --------------------- |
-| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💼SDE Intern <a href="http://valnee.com">@Valnee</a>Ex- SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a> & Top 50 Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a>  </li><li>⚡ Fun fact: Buff of Sci-fi </li></ul> | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&redirect=true) |
+| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on C++ and MERN project.</li><li>👯 I’m looking to collaborate on any projects.</li><li>💼SDE Intern <a href="http://valnee.com">@Valnee</a> Ex- SWE Fellow <a href="http://app.theheadstarter.com">@HeadstarterAI</a> & Top 50 Contributor <a href="https://gssoc.girlscript.tech/">@GirlScript Summer of Code 2024</a>  </li><li>⚡ Fun fact: Buff of Sci-fi </li></ul> | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljqc5cbre3cajtyjhijhxcrzjy&redirect=true) |
 
 
 
 
 Check out my [portfolio](https://techbire.github.io/portfolio), and [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view) to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=ansh-cv&theme=dark&hide_border=true)](https://github.com/techbire/ansh-CV)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=ansh-cv&theme=dark&hide_border=true)](https://github.com/techbire/BloomCart)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=portfolio&theme=dark&hide_border=true)](https://techbire.github.io/portfolio/)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=techbire&repo=portfolio&theme=dark&hide_border=true)](https://github.com/techbire/AI-Flashcard-Wizard-SAAS)
 <br>
 
 ---
